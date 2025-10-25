@@ -1,0 +1,21 @@
+{
+  "short_name": "Genie",
+  "name": "Genie: AI Study Tools",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/vite.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0A0A0A",
+  "background_color": "#0A0A0A",
+  "description": "An AI-powered study tool that generates flashcards, quizzes, and answers questions from your notes, PDFs, or other documents."
+}
